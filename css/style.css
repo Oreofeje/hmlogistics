@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  .bg-secondary{
+    background-color: #D5DCDC !important;
+    color: #121312 !important; 
+  }
+  
+  .navbar-brand{
+    font-family: cursive;
+  }
+  
+  .navbar-nav .nav-link{
+    padding-left: 8px;
+  }
+  
+   .nav-pills .nav-link.active {
+    background-color: #fff !important;
+    color: #3c3d3c !important;
+    font-weight: 500;
+   }
+  
+  
+  .hero-page-image{
+    height: 900px;
+    width: 100%;
+    background-image: url("../images/logistics-companies.jpg");
+    background-position: 100% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(5, 5, 5);
+    vertical-align: middle;
+    text-align: center;
+    font-size: xx-large;
+  }
+  
+  .hero-page-image h2{
+    font-size:40px;
+  }
+  
+  .hero-page-image hr{
+    height:6px ;
+    width: 15rem;
+  }
+  
+  .hero-page-image h1{
+    font-size:30px;
+    font-weight: 700;
+  }
+  
+  .signupLetter .image{
+    width: 19rem;
+  }
+  
+  .signupLetter .image img,
+  .servive-image img{
+    width: 95%;
+    height: 22rem;
+  }
+  .about-image img{
+    height: 19rem;
+    width: 100%;
+  }
+  .story-image{
+    width: 25rem;
+  }
+  .story-image img{
+    width: 100%;
+  }
+  .servive-image{
+    width: 620px;
+  }
+
+  /* about page */
+  .abt-sec-1-hero{
+    height: 400px;
+    width: 110%;
+    background-image: url("../images/landing\ pages\ background.jpg");
+    background-position: 100% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+  }
+
+  .import-hero{
+    height: 25rem;
+    width: 100%;
+    background-image: url("../images/import-export-.png");
+    background-position: 100% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+  }
